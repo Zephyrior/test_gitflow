@@ -12,7 +12,6 @@ import lombok.NoArgsConstructor;
 public class Prenotazione {
 
     private Long id;
-    private Long numeroPrenotazione;
     private Dipendente dipendente;
     private Viaggio viaggio;
 
